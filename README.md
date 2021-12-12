@@ -1,10 +1,10 @@
-# My TOI17 Journey
+# My TOI1️⃣7️⃣ Journey
 
 TOI17 = 17th Thailand Olympiad in Informatics 2021
 
 Held during 9-12 December 2021
 
-## My Performance
+## 💪 My Performance
 
 **Total Score**: 337/600
 
@@ -16,7 +16,7 @@ Held during 9-12 December 2021
 | ---- | ------ | --------- | ------ | ---- | --------- |
 | 92   | 0      | 0         | 100    | 45   | 100       |
 
-## About this Repositories
+## ℹ️ About this Repositories
 
 This will be a blog written in Thai because it is TOI
 
