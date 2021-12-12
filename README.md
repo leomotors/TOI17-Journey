@@ -8,7 +8,9 @@ Held during 9-12 December 2021
 
 **Total Score**: 337/600
 
-**Medal**: _awaiting result_
+**Medal**: Silver
+
+**Special Reward**: รางวัลตั้งใจไม่เสื่อมคลาย
 
 ### Scores by Question
 
