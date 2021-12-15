@@ -10,7 +10,7 @@ Held during 9-12 December 2021
 
 **Medal**: Silver
 
-**Special Reward**: รางวัลตั้งใจไม่เสื่อมคลาย
+**Special Award**: รางวัลตั้งใจไม่เสื่อมคลาย
 
 ### Scores by Question
 
