@@ -18,9 +18,9 @@ Held during 9-12 December 2021
 | ---- | ------ | --------- | ------ | ---- | --------- |
 | 92   | 0      | 0         | 100    | 45   | 100       |
 
-## ℹ️ About this Repositories
+## ℹ️ About this Repository
 
-This will be a blog written in Thai because it is TOI
+This is a blog written in Thai because it is TOI
 
 Spoiler Alert: มีเฉลยอยู่ (แต่ไม่ละเอียด)
 
