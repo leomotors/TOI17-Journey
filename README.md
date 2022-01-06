@@ -25,3 +25,9 @@ This is a blog written in Thai because it is TOI
 Spoiler Alert: มีเฉลยอยู่ (แต่ไม่ละเอียด)
 
 [รีวิวการสอบ](./review.md)
+
+## Certificate & Medal
+
+![](./images/certificates/medal.jpg)
+
+![](./images/certificates/ตั้งใจ.jpg)
